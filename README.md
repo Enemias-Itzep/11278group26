@@ -1,6 +1,6 @@
 # 11278group26
 
 Member1: 
-Member2: Enemias Itzep test
+Member2:
 Member3: Juliette Montes
 Member4: 
