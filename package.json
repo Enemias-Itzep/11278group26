@@ -1,0 +1,23 @@
+{
+  "name": "11278group26",
+  "version": "1.0.0",
+  "description": "Member1: Ian Craig\r Member2: Enemias Itzep\r Member3: Juliette Montes\r Member4: Riley Ball",
+  "main": "Funtion1.js",
+  "dependencies": {
+    "jest": "^27.2.2"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/enemiasufl/11278group26.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/enemiasufl/11278group26/issues"
+  },
+  "homepage": "https://github.com/enemiasufl/11278group26#readme"
+}
